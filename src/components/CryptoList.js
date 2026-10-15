@@ -61,7 +61,7 @@ const CryptoTracker = () => {
 
         <div className="link-to-stock-manager">
           <Link
-            href="https://stock-portfolio-manager-psi.vercel.app/ukstock"
+            href="https://stockholder.lwjformedia.com/ukstock"
             replace
           >
             Stock Portfolio Manager App
